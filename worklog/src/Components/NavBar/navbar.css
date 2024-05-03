@@ -1,0 +1,12 @@
+.navbars {
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.navbarDiv {
+  background-color: black;
+}
+.buttons {
+  display: flex;
+  gap: 50px;
+}
